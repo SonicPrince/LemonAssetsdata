@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1456228765
+CRC: 1117895204
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: role01
-      Dependencies: {}
-    Info_1:
-      Name: role02
+      Name: battle
       Dependencies: {}
