@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1033595356
+CRC: 2543564059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae725cb92963dfb4b2e0e39f93689a60
+    Hash: fc184d73c20d6c55824d35eb1ddbd3bc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8cfd36d84ed37a63bcb3c7ce96d93f72
@@ -14,6 +14,6 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/UI/Battle_fui.bytes
-- Assets/Resources/UI/Battle_atlas0.png
+- Assets/Resources/UI/Loading_atlas0.png
+- Assets/Resources/UI/Loading_fui.bytes
 Dependencies: []

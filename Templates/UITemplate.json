@@ -1,0 +1,4 @@
+{"entry":[
+{"id":1,"sName":"UILogin","sPkgName":"Main","sCompName":"LoginUI","sDesc":"主界面"},
+{"id":2,"sName":"UIBattle","sPkgName":"Battle","sCompName":"BattleUI","sDesc":"战斗界面"}
+]}

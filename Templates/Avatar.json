@@ -1,6 +1,6 @@
 {"entry":[
-{"id":"1","scale":"1.5","name":"剑圣","url":"ui://Common/jiansheng"},
-{"id":"2","scale":"1.5","name":"武器大师","url":"ui://Common/wuqidashi"},
-{"id":"3","scale":"1.5","name":"兰博","url":"ui://Common/lanbo"},
-{"id":"4","scale":"1.5","name":"薇恩","url":"ui://Common/weien"}
+{"id":1,"scale":1.5,"name":"剑圣","url":"ui://Common/jiansheng"},
+{"id":2,"scale":1.5,"name":"武器大师","url":"ui://Common/wuqidashi"},
+{"id":3,"scale":1.5,"name":"兰博","url":"ui://Common/lanbo"},
+{"id":4,"scale":1.5,"name":"薇恩","url":"ui://Common/weien"}
 ]}
