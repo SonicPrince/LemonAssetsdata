@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 944837163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d7b9cf606ed37419ac4cb8a0ff52bd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f7b18c2a8bd0d85c801eb29948b5b98
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68206c1190067b447bfa084a934488d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76b5ec6153a1d55438228df10fe66844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd6d4281e5d7cd44d8c6e38bc2c1b8d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd999d1b2cf94a45a5b0a47ce074bef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 646b5bc27a658f447b1d929fd5ffbd70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fceaeb339b971b429c4cc600acabd13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75febd242c999f04d9654522a10c006b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd70d448b18cfbc46af26466f752332c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0923359e9e352a4b9b11c7b7161ad67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8373842c4e11e494aa5d1a146b6ffc22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 730475ee64f9a894bbac0d9e6f22e813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e50e925fb93c78246bf995d9dc3a2330, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scenes/SceneNormal3v3.unity
+Dependencies: []
